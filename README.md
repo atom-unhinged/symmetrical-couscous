@@ -14,3 +14,5 @@ A navigation and discovery application for finding your way.
 - Location mapping
 - Real-time updates
 - Works completely offline
+
+- ![Atom Logo](atom-logo.svg)
