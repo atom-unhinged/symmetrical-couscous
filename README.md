@@ -15,4 +15,4 @@ A navigation and discovery application for finding your way.
 - Real-time updates
 - Works completely offline
 
-- ![Atom Logo](atom-logo.svg)
+  ![Atom Logo](atom-logo.svg)
